@@ -46,7 +46,7 @@ Siapin alat dan bahannya.
 > kopi+rokok ;v
 ```
 ## Edit disini
-Buka nih `settings.json`(https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
+Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
     "botName": "BABY BOT",
