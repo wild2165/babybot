@@ -45,7 +45,22 @@ Siapin alat dan bahannya.
 > aplikasi termux
 > kopi+rokok ;v
 ```
+## Edit disini
+Buka nih `settings.json`. Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
+```json
+{
+    "botName": "BABY BOT",
+    "ownerName": "RAMLAN ID",
+    "ownerNumbers": "62855xxxxxxxx",
+    "ZeksApi": "apivinz",
+    "botPrefix": "!",
+    "GrupLimitz": "0",
+    "autor": "MrR4M",
+    "peknem": "BABY-BOT",
+    "CeerTod": "*BABY BOTZ VERIFIED*"
+}
 
+```
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
 > kalo lu belum punya apk termux, download di playstore
