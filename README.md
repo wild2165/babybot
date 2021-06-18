@@ -87,7 +87,7 @@ Ket: Script ini gratis ye Jangan dijual_-
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
+* [`Youtube Admin`](https://youtube.com/c/RAMLANID)
 * [`Instagram Admin`](https://instagram.com/iamramlan_)
 * [`WhatsApp Admin `](https://wa.me/+6285559240360)
 * [`Group WhatsApp `](https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu)
