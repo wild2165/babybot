@@ -1,23 +1,23 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Wild
 <p align="center">
-<p align='center'><a href="https://instagram.com/iamramlan_"><img height="200" src="https://github.com/Ramlan404/Ramlan404/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/shop_game.wild"><img height="200" src="https://github.com/Ramlan404/Ramlan404/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 </p>
 <br>
 
 
 
 <p align="center">
-<a href="#"><img title="RAMLAN ID" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="WILD XYZ" src="https://img.shields.io/badge/WILD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan404"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/wild2165"><img title="Author" src="https://img.shields.io/badge/AUTHOR-WILD-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan404/babybot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan404?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ramlan404/babybot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramlan404/babybotcolor=red&style=flat-square"></a>
-<a href="https://github.com/Ramlan404/babybot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramlan404/babybot?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramlan404/babybot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramlan404/babybot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamlan404%2Fbabybot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/wild2165/babybot/followers"><img title="Followers" src="https://img.shields.io/github/followers/wild2165?color=blue&style=flat-square"></a>
+<a href="https://github.com/wild2165/babybot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/wild2165/babybotcolor=red&style=flat-square"></a>
+<a href="https://github.com/wild2165/babybot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/wild2165/babybot?color=red&style=flat-square"></a>
+<a href="https://github.com/wild2165/babybot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/wild2165/babybot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwild2165%2Fbabybot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
@@ -46,7 +46,7 @@ Siapin alat dan bahannya.
 > kopi+rokok ;v
 ```
 ## Edit disini
-Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
+Buka nih [`Ramlan.json`](https://github.com/wild2165/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
     "botName": "BABY BOT",
@@ -82,15 +82,15 @@ Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings
 Ket: Script ini gratis ye Jangan dijual_-
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi Ramlan ID`](https://saweria.co/ramlangans)
+* [`Donasi WILD XYZ`](https://saweria.co/Rehangtps)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Youtube Admin`](https://youtube.com/c/RAMLANID)
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
-* [`Group WhatsApp `](https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu)
+* [`Instagram Admin`](https://instagram.com/shop_game.wild)
+* [`WhatsApp Admin `](https://wa.me/6285889758808)
+
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`ALLAH SWT`]
